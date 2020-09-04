@@ -1,2 +1,2 @@
 #Um comentário aqui
-#Coreção
+#Correção
